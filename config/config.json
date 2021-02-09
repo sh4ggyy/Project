@@ -1,0 +1,5 @@
+{
+    "PersonalToken": "f05100fb-a365-4c7e-ba10-9c93bbfa3434",
+    "ListenURL": ":8080",
+    "URLPathPrefix": "service"
+}
